@@ -1,0 +1,12 @@
+{
+  "name": "turbofan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "azure-iot-device": "1.7.3",
+    "azure-iot-device-mqtt": "1.7.3"
+  }
+}
