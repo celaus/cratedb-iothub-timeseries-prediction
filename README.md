@@ -4,7 +4,7 @@ This repository is part of a blog post. Check it out on [https://blog.x5ff.xyz/]
 
 # Jupyter Notebook
 
-This notebook is built to connect to a local [CrateDB](https://crate.io) cluster. 
+The [Jupyter Notebook](data.exploration.cmapss.ipynb) is built to connect to a local [CrateDB](https://crate.io) cluster. 
 
 # Setup Turbofan inserter
 
